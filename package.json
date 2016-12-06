@@ -1,0 +1,17 @@
+{
+  "name": "tn",
+  "version": "0.0.1",
+  "description": "tn2.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "indx": "^0.2.3"
+  },
+  "devDependencies": {
+    "gulp-nunjucks": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yangming",
+  "license": "ISC"
+}
